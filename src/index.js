@@ -1,4 +1,4 @@
-import SortList from 'widget/SortList'
+import SortList from './widget/SortList'
 
 const collection = {
   SortList
