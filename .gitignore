@@ -1,0 +1,17 @@
+#node
+node_modules
+npm-debug.log
+
+#IDE
+.idea
+.vscode
+
+#mac
+.DS_Store
+
+#dev
+dist
+build
+
+#custom
+local
