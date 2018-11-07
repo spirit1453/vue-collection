@@ -1,1 +1,3 @@
-module.exports = require('./src/index.js')
+import SortList from './src/widget/SortList'
+
+export {SortList}
